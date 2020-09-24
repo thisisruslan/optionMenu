@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OptionsMenuApp</string>
+    <string name="MenuAdd">Add</string>
+    <string name="menuDelete">Delete</string>
+</resources>
